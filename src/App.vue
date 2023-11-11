@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Replay de MERCADO <span class="pi pi-bookmark-fill"></span></p>
+    <p>Replay de MERCADO</p>
     <NavbarComponent />
     <Divider />
     <router-view />
@@ -30,6 +30,9 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style>
+body {
+  text-align: center;
+  align-items: center;
+}
 </style>
