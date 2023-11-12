@@ -1,0 +1,452 @@
+[
+  {
+    "price": "5.040,39",
+    "quantity": 5,
+    "buyer": "093-Nova Futura",
+    "seller": "1618-Ideal",
+    "time": "17:59:59",
+    "id": 38668,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.040,39",
+    "quantity": 5,
+    "buyer": "093-Nova Futura",
+    "seller": "072-Bradesco",
+    "time": "17:59:59",
+    "id": 38667,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.040,39",
+    "quantity": 5,
+    "buyer": "093-Nova Futura",
+    "seller": "085-BTG",
+    "time": "17:59:59",
+    "id": 38666,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "072-Bradesco",
+    "seller": "147-Ativa",
+    "time": "17:59:59",
+    "id": 38665,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,88",
+    "quantity": 5,
+    "buyer": "072-Bradesco",
+    "seller": "147-Ativa",
+    "time": "17:59:59",
+    "id": 38664,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,88",
+    "quantity": 15,
+    "buyer": "746-LEV",
+    "seller": "147-Ativa",
+    "time": "17:59:59",
+    "id": 38663,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.038,38",
+    "quantity": 5,
+    "buyer": "085-BTG",
+    "seller": "127-Tullett",
+    "time": "17:59:58",
+    "id": 38662,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.038,38",
+    "quantity": 5,
+    "buyer": "003-XP",
+    "seller": "127-Tullett",
+    "time": "17:59:58",
+    "id": 38661,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.038,89",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "1618-Ideal",
+    "time": "17:59:50",
+    "id": 38660,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.038,89",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "1618-Ideal",
+    "time": "17:59:50",
+    "id": 38659,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.037,88",
+    "quantity": 5,
+    "buyer": "008-UBS",
+    "seller": "088-Capital",
+    "time": "17:59:39",
+    "id": 38658,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38657,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38656,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38655,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38654,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38653,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38652,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38651,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "120-Genial",
+    "time": "17:59:38",
+    "id": 38650,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38649,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "107-Terra",
+    "time": "17:59:38",
+    "id": 38648,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:59:38",
+    "id": 38647,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "120-Genial",
+    "time": "17:59:38",
+    "id": 38646,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.038,38",
+    "quantity": 5,
+    "buyer": "008-UBS",
+    "seller": "072-Bradesco",
+    "time": "17:59:25",
+    "id": 38645,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.038,38",
+    "quantity": 5,
+    "buyer": "008-UBS",
+    "seller": "1618-Ideal",
+    "time": "17:59:24",
+    "id": 38644,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 20,
+    "buyer": "008-UBS",
+    "seller": "127-Tullett",
+    "time": "17:59:23",
+    "id": 38643,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.038,38",
+    "quantity": 5,
+    "buyer": "120-Genial",
+    "seller": "1618-Ideal",
+    "time": "17:59:11",
+    "id": 38642,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 5,
+    "buyer": "072-Bradesco",
+    "seller": "085-BTG",
+    "time": "17:59:00",
+    "id": 38641,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 5,
+    "buyer": "003-XP",
+    "seller": "085-BTG",
+    "time": "17:59:00",
+    "id": 38640,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 5,
+    "buyer": "003-XP",
+    "seller": "088-Capital",
+    "time": "17:58:34",
+    "id": 38639,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.037,88",
+    "quantity": 5,
+    "buyer": "013-Merrill",
+    "seller": "072-Bradesco",
+    "time": "17:58:34",
+    "id": 38638,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.037,38",
+    "quantity": 5,
+    "buyer": "013-Merrill",
+    "seller": "072-Bradesco",
+    "time": "17:58:34",
+    "id": 38637,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 5,
+    "buyer": "003-XP",
+    "seller": "088-Capital",
+    "time": "17:58:34",
+    "id": 38636,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 5,
+    "buyer": "003-XP",
+    "seller": "072-Bradesco",
+    "time": "17:58:31",
+    "id": 38635,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "008-UBS",
+    "time": "17:58:31",
+    "id": 38634,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:58:31",
+    "id": 38633,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:58:31",
+    "id": 38632,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:58:31",
+    "id": 38631,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:58:31",
+    "id": 38630,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "059-Safra",
+    "seller": "072-Bradesco",
+    "time": "17:58:30",
+    "id": 38629,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,88",
+    "quantity": 5,
+    "buyer": "085-BTG",
+    "seller": "072-Bradesco",
+    "time": "17:58:25",
+    "id": 38628,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.037,88",
+    "quantity": 5,
+    "buyer": "008-UBS",
+    "seller": "1618-Ideal",
+    "time": "17:57:45",
+    "id": 38627,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.038,38",
+    "quantity": 10,
+    "buyer": "120-Genial",
+    "seller": "1618-Ideal",
+    "time": "17:57:38",
+    "id": 38626,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "093-Nova Futura",
+    "seller": "072-Bradesco",
+    "time": "17:57:30",
+    "id": 38625,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "085-BTG",
+    "seller": "008-UBS",
+    "time": "17:56:54",
+    "id": 38624,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.036,37",
+    "quantity": 5,
+    "buyer": "008-UBS",
+    "seller": "072-Bradesco",
+    "time": "17:56:08",
+    "id": 38623,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.035,87",
+    "quantity": 5,
+    "buyer": "1618-Ideal",
+    "seller": "072-Bradesco",
+    "time": "17:55:58",
+    "id": 38622,
+    "initiative": "Comprador"
+  },
+  {
+    "price": "5.035,37",
+    "quantity": 10,
+    "buyer": "085-BTG",
+    "seller": "120-Genial",
+    "time": "17:55:58",
+    "id": 38621,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.035,37",
+    "quantity": 5,
+    "buyer": "072-Bradesco",
+    "seller": "120-Genial",
+    "time": "17:55:58",
+    "id": 38620,
+    "initiative": "Vendedor"
+  },
+  {
+    "price": "5.035,37",
+    "quantity": 5,
+    "buyer": "085-BTG",
+    "seller": "008-UBS",
+    "time": "17:55:58",
+    "id": 38619,
+    "initiative": "Vendedor"
+  }
+]

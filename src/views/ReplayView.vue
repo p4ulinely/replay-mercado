@@ -26,12 +26,11 @@
         <InlineMessage severity="error" v-show="invalidInputs">{{ errorMessage }}</InlineMessage>
     </div>
     <br>
-    <div v-show="replayHasData">
-        <ReplayPanelComponent
-            :replayData="replayData"
-            v-on:replay-finished="replayFinished"
-        />
-    </div>
+    <ReplayPanelComponent
+        v-if="activateReplayPanel"
+        :replayData="replayData"
+        v-on:replay-finished="replayFinished"
+    />
 </template>
 
 <script>
@@ -56,9 +55,11 @@ export default {
         AutoComplete,
         InlineMessage,
         ReplayPanelComponent
+        // ReplayPanelComponent: () => import('../components/ReplayPanelComponent.vue'),
     },
     data() {
         return {
+            activateReplayPanel: false,
             deactivateInputs: false,
             gettingReplay: false,
             invalidInputs: false,
@@ -132,6 +133,7 @@ export default {
             // TODO: request to get replay data
             setTimeout(() => {
                 this.preGettingReplay(false);
+                this.activateReplayPanel = true;
 
                 this.replayData = {
                     info: {
@@ -140,20 +142,67 @@ export default {
                     },
                     data: [
                         {
-                            id: '12323123',
-                            date: '20231111',
-                            buyer: '12',
-                            seller: '14',
-                            price: 4995.5,
-                            initiative: 'seller'
+                            "price": "5.037,88",
+                            "quantity": 5,
+                            "buyer": "072-Bradesco",
+                            "seller": "147-Ativa",
+                            "time": "17:59:59",
+                            "id": 38664,
+                            "initiative": "Vendedor"
                         },
                         {
-                            id: '12323124',
-                            date: '20231111',
-                            buyer: '144',
-                            seller: '166',
-                            price: 4996,
-                            initiative: 'buyer'
+                            "price": "5.037,88",
+                            "quantity": 15,
+                            "buyer": "746-LEV",
+                            "seller": "147-Ativa",
+                            "time": "17:59:59",
+                            "id": 38663,
+                            "initiative": "Vendedor"
+                        },
+                        {
+                            "price": "5.038,38",
+                            "quantity": 5,
+                            "buyer": "085-BTG",
+                            "seller": "127-Tullett",
+                            "time": "17:59:58",
+                            "id": 38662,
+                            "initiative": "Comprador"
+                        },
+                        {
+                            "price": "5.038,38",
+                            "quantity": 5,
+                            "buyer": "003-XP",
+                            "seller": "127-Tullett",
+                            "time": "17:59:58",
+                            "id": 38661,
+                            "initiative": "Comprador"
+                        },
+                        {
+                            "price": "5.038,89",
+                            "quantity": 5,
+                            "buyer": "059-Safra",
+                            "seller": "1618-Ideal",
+                            "time": "17:59:50",
+                            "id": 38660,
+                            "initiative": "Comprador"
+                        },
+                        {
+                            "price": "5.038,89",
+                            "quantity": 5,
+                            "buyer": "059-Safra",
+                            "seller": "1618-Ideal",
+                            "time": "17:59:50",
+                            "id": 38659,
+                            "initiative": "Comprador"
+                        },
+                        {
+                            "price": "5.037,88",
+                            "quantity": 5,
+                            "buyer": "008-UBS",
+                            "seller": "088-Capital",
+                            "time": "17:59:39",
+                            "id": 38658,
+                            "initiative": "Comprador"
                         },
                     ]
                 };
